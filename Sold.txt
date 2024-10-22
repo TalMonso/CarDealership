@@ -1,0 +1,2 @@
+Car number:130698 manufacture date:2023 manufacture name:TALYOTA mileage:2000 price:1000000
+ Tal 5
